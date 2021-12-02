@@ -8,7 +8,7 @@ Linux kernel 4.15.0 with ath9k driver modified to support the Atheros-CSI-Tool d
 ## kernel Compilation Instructions
 ```
 sudo apt-get install git libncurses5-dev libncursesw5-dev libelf-dev libnl-3-dev libssl-dev  
-git clone https://github.com/kdkalvik/Atheros-CSI-Tool.git
+git clone https://github.com/khooi8913/Atheros-CSI-Tool.git
 cd Atheros-CSI-Tool
 make menuconfig
 make -j16
