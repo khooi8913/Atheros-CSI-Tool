@@ -1,6 +1,10 @@
 ## Description
 Linux kernel 4.15.0 with ath9k driver modified to support the Atheros-CSI-Tool developed by xieyaxiongfly https://github.com/xieyaxiongfly/Atheros-CSI-Tool. 
 
+
+[12/2021] Updated with patches for Atheros-CSI-Tool version 2.0 on https://github.com/wands-wireless/Atheros-CSI-Tool. 
+
+
 ## kernel Compilation Instructions
 ```
 sudo apt-get install git libncurses5-dev libncursesw5-dev libelf-dev libnl-3-dev libssl-dev  
